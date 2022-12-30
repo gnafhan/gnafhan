@@ -1,4 +1,4 @@
-Hi there! My name is Ghifari Nafhab and I am a High School Student. I am passionate about Backend Development.
+Hi there! My name is Ghifari Nafhan and I am a High School Student. I am passionate about Backend Development.
 
 I have been learn web development for 3 Years and have gained a lot of experience in Express JS. In my current role, I am responsible for Fullstack Web Development.
 
