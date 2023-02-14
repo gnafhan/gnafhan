@@ -1,5 +1,9 @@
 <h1><img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="30px"> Hi there!</h1>
 
+<p align="center">
+ <img width="65%" src="https://wallpaperaccess.com/full/4167709.gif">
+</p>
+
 ### 📃 Desc:
 
 My name is Ghifari Nafhan and I am a High School Student. I am passionate about Backend Development.
