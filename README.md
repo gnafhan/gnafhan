@@ -16,5 +16,5 @@ Feel free to check out my projects and contribute to my code. I am always open t
 
 ### 📊 Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnafhan&theme=tokyonight)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gnafhan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnafhan&theme=tokyonight)](https://nafhan.me)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gnafhan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://nafhan.me)
