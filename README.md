@@ -17,6 +17,8 @@
 
 - Feel free to check out my projects and contribute to my code. I am always open to feedback and suggestions!
 
+- Im very bad on UI/UX or front-end
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> What I currently do: </h2>
 
