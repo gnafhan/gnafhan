@@ -7,7 +7,7 @@
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" align="center"
-                width="28" />Desc: </h2>
+                width="28" />Desc:  </h2>
 
 - My name is Ghifari Nafhan and I am a High School Student. I am passionate about Backend Development.
 
