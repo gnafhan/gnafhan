@@ -37,7 +37,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnafhan&layout=compact&hide=TSQL&theme=tokyonight"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnafhan&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=gnafhan&theme=tokyonight"></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=gnafhan&theme=tokyonight"></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gnafhan&theme=tokyonight"></p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643516362/23995/hammer.gif?1643516362" align="center"
                 width="28" />Tech Stack  </h2>
