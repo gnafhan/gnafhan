@@ -35,7 +35,7 @@
 <div align="center">
 
 </div>
-![trophy](https://github-profile-trophy.vercel.app/?username=gnafhan&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"><img src="https://profile-counter.glitch.me/gnafhan/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnafhan&layout=compact&hide=TSQL&theme=tokyonight"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnafhan&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400"></p> 
