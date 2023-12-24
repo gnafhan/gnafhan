@@ -9,9 +9,9 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" align="center"
                 width="28" />Desc:  </h2>
 
-- My name is Ghifari Nafhan and I am a High School Student. I am passionate about Backend Development.
+- My name is Ghifari Nafhan and I am a Software Engineering Student. I am passionate about Backend Development.
 
-- I have been learn web development for 3 Years and have gained a lot of experience in Express JS. In my current role, I am responsible for Fullstack Web Development.
+- I have been learn web development for 3 Years and have gained a lot of experience in React JS, Express JS, Golang, Flask. In my current role, I am responsible for Fullstack Web Development.
 
 - In my free time, I enjoy learn new tech. I am always looking for new opportunities to learn and grow, and I am excited to be part of the GitHub community.
 
@@ -19,13 +19,11 @@
 
 - Im very bad on UI/UX or front-end
 
-- I hate PHP ngl
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> What I currently do: </h2>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and ExpressJS.
+- 🌱 I’m currently learning React JS and ExpressJS.
 - 👯 I’m looking to collaborate on Frontend-Web and Backend-web projects.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Back-end Web Development, Front-end Web Development, Any tech-related stuff.
@@ -34,7 +32,9 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515883/19011/statistics.gif?1643515883" align="center"
                 width="28" />Github Stats  </h2>
-                
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <p align="center"><img src="https://profile-counter.glitch.me/gnafhan/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnafhan&layout=compact&hide=TSQL&theme=tokyonight"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnafhan&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400"></p> 
