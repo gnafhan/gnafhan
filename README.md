@@ -4,8 +4,6 @@
  <img width="40%" src="https://wallpaperaccess.com/full/2641074.gif">
 </p>
 
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gnafhan&theme=tokyonight&rank=-UNKNOWN,-C,-B&column=5&row=1"></p>
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" align="center"
                 width="28" />Desc:  </h2>
 
@@ -34,6 +32,7 @@
                 width="28" />Github Stats  </h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/gnafhan/count.svg" alt="visitor badge"/></p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gnafhan&theme=tokyonight&rank=-UNKNOWN,-C,-B&column=5&row=1"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnafhan&layout=compact&hide=TSQL&theme=tokyonight"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=gnafhan&count_private=true&show_icons=true&&theme=tokyonight&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=gnafhan&theme=tokyonight"></p>
