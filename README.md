@@ -33,7 +33,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515883/19011/statistics.gif?1643515883" align="center"
                 width="28" />Github Stats  </h2>
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gnafhan&theme=onedark)]
 </div>
 <p align="center"><img src="https://profile-counter.glitch.me/gnafhan/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnafhan&layout=compact&hide=TSQL&theme=tokyonight"></p>
