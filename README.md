@@ -4,7 +4,7 @@
  <img width="40%" src="https://wallpaperaccess.com/full/2641074.gif">
 </p>
 
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gnafhan&theme=tokyonight&rank=-C,-B, SECRET&column=5"></p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=gnafhan&theme=tokyonight&rank=-C,-B, -SECRET&column=5"></p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" align="center"
                 width="28" />Desc:  </h2>
