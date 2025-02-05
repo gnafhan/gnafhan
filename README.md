@@ -1,30 +1,24 @@
+<img width="100%" src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/67a356460020905b6c5f/preview?project=667d35ca0017fb21fc6c">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ghifari Nafhan </h1>
 
 <p align="center">
- <img width="40%" src="https://wallpaperaccess.com/full/2641074.gif">
+ 
 </p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" align="center"
                 width="28" />Desc:  </h2>
 
-- My name is Ghifari Nafhan and I am a Software Engineering Student. I am passionate about Backend Development.
-
-- I have been learn web development for 3 Years and have gained a lot of experience in React JS, Express JS, Golang, Flask. In my current role, I am responsible for Fullstack Web Development.
-
-- In my free time, I enjoy learn new tech. I am always looking for new opportunities to learn and grow, and I am excited to be part of the GitHub community.
-
-- Feel free to check out my projects and contribute to my code. I am always open to feedback and suggestions!
-
-- Im very bad on UI/UX or front-end
+👋 Full-Stack Web Developer | 🚀 4+ Years of Professional Experience
+Seasoned developer passionate about crafting robust web solutions across the stack. Proficient in React.js, Next.js (frontend), Express.js, Nest.js, Go, and Laravel (backend), with a knack for building scalable, modern applications. Continuously learning and experimenting with emerging tech to stay ahead of the curve—because I don’t just want to learn, I love to learn. 🔥 Whether it’s optimizing performance or architecting seamless user experiences, I thrive on turning ideas into reality. Always open to collaboration or a tech chat—let’s connect! 📬 Reach out via nafhanghifari@gmail.com to discuss projects, innovations, or anything code!
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> What I currently do: </h2>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React JS and ExpressJS.
-- 👯 I’m looking to collaborate on Frontend-Web and Backend-web projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Back-end Web Development, Front-end Web Development, Any tech-related stuff.
+- 🔭 Working on several exciting projects, leveraging my expertise in Next.js to build scalable and performant web applications.
+- 🌱 Focusing on expanding my knowledge in Machine Learning and AI, exploring how they can integrate with modern web development.
+- 💬 Ask me about Back-end Web Development, Front-end Web Development, or anything tech-related—I’m always happy to share insights and discuss ideas!
+- 🛠️ Passionate about Backend Development and DevOps, constantly refining my skills to create efficient, reliable systems.
+- 🚀 Collaborating on innovative projects that push the boundaries of web technology—let’s build something amazing together!
 
 
 
@@ -69,12 +63,15 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Kali_Linux](https://img.shields.io/badge/-Kali_Linux-05122A?style=flat&logo=kali-linux)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://nafhan.me/"><img src="https://img.shields.io/badge/-nafhan.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://nafhan.com/"><img src="https://img.shields.io/badge/-nafhan.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/gnafhan"><img src="https://img.shields.io/badge/-gnafhan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nafhanghifari@gmail.com"><img src="https://img.shields.io/badge/-nafhanghifari@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ghifarinafhan_"><img src="https://img.shields.io/badge/-@ghifarinafhan_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
